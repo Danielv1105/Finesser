@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - trapsSpikes
+  - FireHeadEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Hearts
+  - Healthbar
+  - Player
+  - Enemy
+  - Boss
+  - Ground
+  - Obstacles
+  - Background
+  - Traps
+  - Back
+  - HitRange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 4094212469
+    locked: 0
+  - name: Background
+    uniqueID: 607440529
+    locked: 0
+  - name: Player
+    uniqueID: 1488228009
+    locked: 0
+  - name: ForegroundAndObstacles
+    uniqueID: 2584162493
+    locked: 0
+  - name: UI
+    uniqueID: 3030687115
+    locked: 0
+  - name: Healthbar
+    uniqueID: 1798036617
+    locked: 0
+  - name: Health
+    uniqueID: 1077517987
+    locked: 0
